@@ -1,2 +1,8 @@
 # py_automata
-an extension of the python AutomataLib library that adds new export options and new automata manipulation methods
+
+Une extension pour la librairie ["automata-lib"](https://github.com/caleb531/automata) qui ajoute de nouvelle fonctionnalités de manipulation (complémentation, équivalence, comparaison, ...) et d'export des automates(export au format svg,tikZ,pdf,...)
+
+## Fonctionnalités
+
+
+## Installation
